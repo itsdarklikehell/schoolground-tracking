@@ -1,5 +1,11 @@
 # schoolground-tracking
 
+
+[![CI](https://github.com/itsdarklikehell/schoolground-tracking/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/schoolground-tracking/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/itsdarklikehell/schoolground-tracking)](LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 Track users and display them on a map to navigate and such
 
 ## 🗺️機能 (Features)
